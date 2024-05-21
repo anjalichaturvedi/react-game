@@ -1,0 +1,29 @@
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.question-container {
+  margin: 20px;
+}
+
+.options {
+  display: flex;
+  flex-direction: column;
+  margin: 10px 0;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  font-size: 16px;
+}
+
+.score-container {
+  margin: 20px;
+}
+
+.progress {
+  margin-top: 20px;
+  font-size: 18px;
+}
